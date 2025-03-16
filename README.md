@@ -1,0 +1,1 @@
+The program processes DNA sequences from FASTA and QUAL files, filtering nucleotides based on a minimum quality threshold. It then builds a similarity graph based on shared substrings of a given length that appear in different sequences. Finally, the program searches for cliques of five vertices, representing motifs present in all five sequences.
